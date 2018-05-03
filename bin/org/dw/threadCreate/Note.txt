@@ -1,0 +1,8 @@
+
+Thread Creation:
+	Two way by extend Thread class
+	or implementing Runnable interface
+
+To create a Thread Object we can pass Runnable implementation to it's constructor.
+	it can be anonymous class
+	or by using Lamda expression

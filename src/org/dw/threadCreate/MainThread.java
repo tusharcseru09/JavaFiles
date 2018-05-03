@@ -1,4 +1,4 @@
-package org.dw.threadExam;
+package org.dw.threadCreate;
 
 public class MainThread {
 	

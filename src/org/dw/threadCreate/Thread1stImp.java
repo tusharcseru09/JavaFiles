@@ -1,10 +1,9 @@
-package org.dw.threadExam;
+package org.dw.threadCreate;
 
 import java.util.concurrent.TimeUnit;
 
-public class Thread2ndImp implements Runnable{
-	
-	
+public class Thread1stImp implements Runnable{
+
 	@Override
     public void run() {
 		
